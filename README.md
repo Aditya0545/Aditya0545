@@ -9,9 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/inspiringking45" target="blank"><img src="https://img.shields.io/twitter/follow/inspiringking45?logo=twitter&style=for-the-badge" alt="inspiringking45" /></a> </p>
 <p align="left"> <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge" alt="inspiringking45" /></a> </p>
-<p align="left"> <a href="https://twitter.com/inspiringking45" target="blank"><img src="https://img.shields.io/twitter/follow/inspiringking45?logo=twitter&style=for-the-badge" alt="inspiringking45" /></a> </p>
-<p align="left"> <a href="https://twitter.com/inspiringking45" target="blank"><img src="https://img.shields.io/twitter/follow/inspiringking45?logo=twitter&style=for-the-badge" alt="inspiringking45" /></a> </p>
-
 
 - 🌱 I’m currently learning **DSA, HTML, CSS, JAVASCRIPT**
 
