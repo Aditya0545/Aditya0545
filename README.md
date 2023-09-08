@@ -10,6 +10,9 @@
 <p align="left"> <a href="https://twitter.com/inspiringking45" target="blank"><img src="https://img.shields.io/twitter/follow/inspiringking45?logo=twitter&style=for-the-badge" alt="inspiringking45" /></a> </p>
 <p align="left"> <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge" alt="inspiringking45" /></a> </p>
 <p align="left"> <a href="https://www.facebook.com/aditya.gupta.5245961" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoColor=white&style=for-the-badge" alt="inspiringking45" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/aditya-kumar-7a4027247/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+&style=for-the-badge" alt="inspiringking45" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/its_aditya_simple/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=for-the-badge" alt="inspiringking45" /></a> </p>
 
 
 - 🌱 I’m currently learning **DSA, HTML, CSS, JAVASCRIPT**
