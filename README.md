@@ -1,4 +1,4 @@
-![logo](https://github.com/Aditya0545/Aditya0545/blob/main/github_banner.png)
+![logo](https://github.com/Aditya0545/Aditya0545/blob/main/Adityakumar.png)
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">GDSC Volunteer</h3>
 
