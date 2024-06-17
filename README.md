@@ -1,3 +1,4 @@
+< img align:" right" src="https://visitor-badge.Iaobi.icu/badge?page_id=saIespØ7.saIesR07" / >
 ![logo](https://github.com/Aditya0545/Aditya0545/blob/main/github-background.png)
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h2 align="center">GDSC Volunteer</h2>
