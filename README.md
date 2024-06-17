@@ -8,7 +8,7 @@ font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&random=false&width=435&lines=Hi%2C+There!+👋;I'm+Aditya+Kumar!" alt="Typing SVG" /></a>
 </hl>
 <!-- <h1 align="center">Hi 👋, I'm Aditya</h1> -->
-<h2 align="center">GDSC Volunteer</h2>
+<h2 align="center">GDG Ambassador & GDG Core Team Member</h2>
 <h3>A passionate Java developer and Graphic Designer from India.</ h3><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya0545&label=Profile%20views&color=0e75b6&style=flat" alt="aditya0545" /> </p>
@@ -19,7 +19,7 @@ font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400
 
 - 📫 reach me **adityakumar2019.ak@gmail.com**
 
-- ⚡ Fun fact **I watch wheather in my website**
+- ⚡ <i>Fun fact **I watch wheather in my website</i>**
 
 <h3 align="left">Connect With Social Media:</h3>
 <p align="left"> <a href="https://twitter.com/inspiringking45" target="blank"><img src="https://img.shields.io/twitter/follow/inspiringking45?logo=twitter&style=for-the-badge" alt="inspiringking45" /></a> </p>
