@@ -52,15 +52,7 @@ Ask me about **Python, Java, Cloud skill Boost and C language**
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div>
-    <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya0545&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya0545&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya0545&" alt="GitHub Streak" />
-    </div>
-    <div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya0545&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=aditya0545&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
@@ -68,8 +60,16 @@ Ask me about **Python, Java, Cloud skill Boost and C language**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya0545&theme=dark" alt="GitHub Streak" />
     </div>
 
+
 <!--Test Code-->
 
-
+<!--<div>
+    <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya0545&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya0545&show_icons=true&locale=en" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya0545&" alt="GitHub Streak" />
+    </div>-->
 
 
