@@ -3,7 +3,7 @@
 <hl align="center">
     <!-- < img src="https://readme-typing-svg.herokuapp.com/?
 font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+;+I'M+Aditya+Kumar!;"/> -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=550&height=70&duration=4000&lines=Hi%2C+There!+;I'm+Aditya+Kumar!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=800&height=100&duration=4000&lines=Hi%2C+There!+;I'm+Aditya+Kumar!" alt="Typing SVG" /></a>
 </hl>
 <!-- <h1 align="center">Hi 👋, I'm Aditya</h1> -->
 <h2 align="center">GDSC Volunteer</h2>
