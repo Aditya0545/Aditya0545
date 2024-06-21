@@ -10,6 +10,8 @@
 <div align: "center" >
 🔭 I'm currently working on Wikimedia Projects
     
+🔭 My portfolio <a href="bit.ly/about-aditya">About-me</a>
+
 🌱 I'm currently learning **React, AI and Roborics**
 
 📫 reach me **adityakumar2019.ak@gmail.com**
