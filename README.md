@@ -10,7 +10,7 @@
 <div align: "center" >
 🔭 I'm currently working on Wikimedia Projects
     
-🔭 My portfolio <a href="bit.ly/about-aditya">About-me</a>
+🔭 My portfolio <a href="https://6674e3efff107bffec3e5120--coruscating-starlight-98af33.netlify.app">About-me</a>
 
 🌱 I'm currently learning **React, AI and Roborics**
 
