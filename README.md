@@ -12,7 +12,7 @@
     
 🔭 My portfolio <a href="https://6674e3efff107bffec3e5120--coruscating-starlight-98af33.netlify.app">About-me</a>
 
-🌱 I'm currently learning **React, AI and Roborics**
+🌱 I'm currently learning **React, AI and Roborics**<br>
 🔭 Projects on AI <a href="https://face-mask-detection-aditya.streamlit.app"> Face Mask Detection Model </a><br>
 🔭 Projects on AI <a href="https://ham-spam-classifier-aditya.streamlit.app"> SMS ham spam Detection Model </a>
 
