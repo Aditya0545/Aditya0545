@@ -1,6 +1,6 @@
 <!-- ![logo](https://github.com/Aditya0545/Aditya0545/blob/main/github-background.png) -->
 <div align="center">
-  <img width="100%" height="200" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="banner"/>
+<!--   <img width="100%" height="200" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="banner"/> -->
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=2C98F0&random=false&width=435&lines=Hi+There!+👋;I'm+Aditya+Kumar!" alt="Typing SVG" />
   
