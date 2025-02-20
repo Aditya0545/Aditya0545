@@ -24,7 +24,7 @@
       <a href="https://www.wikimedia.org/">
         <img src="https://img.shields.io/badge/Currently-Wikimedia_Projects-2C98F0?style=for-the-badge&logo=wikipedia&logoColor=white" />
       </a>
-      <a href="https://aditya0545.netlify.app">
+      <a href="https://adityakumar.store">
         <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
       </a>
     </p>
