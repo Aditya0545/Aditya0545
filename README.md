@@ -47,6 +47,37 @@
   | [![SMS Spam Classifier](https://img.shields.io/badge/AI_Project-SMS_Spam_Classifier-00B2FF?style=for-the-badge&logo=streamlit&logoColor=white)](https://ham-spam-classifier-aditya.streamlit.app) | SMS Classification using NLP |
 
   </div>
+
+  ## 🛠️  Multimedia & Design Tools
+
+<p align="left">
+  <a href="https://www.wikipedia.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white" />
+    </a>
+    <a href="https://www.mediawiki.org/wiki/MediaWiki" target="_blank">
+      <img src="https://img.shields.io/badge/MediaWiki-36C5F0?style=for-the-badge&logo=wikipedia&logoColor=white" />
+    </a>
+    <a href="https://commons.wikimedia.org/" target="_blank">
+      <img src="https://img.shields.io/badge/WikiCommons-006699?style=for-the-badge&logo=wikipedia&logoColor=white" />
+    </a>
+    <a href="https://about.gitlab.com/" target="_blank">
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+    </a>
+    <a href="https://www.gerritcodereview.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Gerrit-99CC33?style=for-the-badge&logo=gerrit&logoColor=white" />
+    </a>
+</p>
+
+## 🔗 Tech & Platforms I Work On
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white" />
+    <img src="https://img.shields.io/badge/MediaWiki-36C5F0?style=for-the-badge&logo=wikipedia&logoColor=white" />
+    <img src="https://img.shields.io/badge/WikiCommons-006699?style=for-the-badge&logo=wikipedia&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gerrit-99CC33?style=for-the-badge&logo=gerrit&logoColor=white" />
+</p>
+
   </details>
 
   <details open>
@@ -88,8 +119,9 @@
   <h2>🐍 Contribution Graph</h2>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya0545&theme=tokyonight" />
   <br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aditya0545/aditya0545/output/github-contribution-grid-snake.svg" />
 </div>
+
 
 <div align="center">
   <h2>⚡ Fun Fact</h2>
