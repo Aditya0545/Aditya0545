@@ -24,7 +24,7 @@
       <a href="https://www.wikimedia.org/">
         <img src="https://img.shields.io/badge/Currently-Wikimedia_Projects-2C98F0?style=for-the-badge&logo=wikipedia&logoColor=white" />
       </a>
-      <a href="https://adityakumar.store">
+      <a href="https://aditya0545.netlify.app">
         <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
       </a>
     </p>
@@ -47,11 +47,28 @@
   | [![SMS Spam Classifier](https://img.shields.io/badge/AI_Project-SMS_Spam_Classifier-00B2FF?style=for-the-badge&logo=streamlit&logoColor=white)](https://ham-spam-classifier-aditya.streamlit.app) | SMS Classification using NLP |
 
   </div>
+  </details>
 
-  ## 🛠️  Multimedia & Design Tools
+  <div align="center">
+  <h2>🎨 Creative & Editing Tools</h2>
+</div>
 
-<p align="left">
-  <a href="https://www.wikipedia.org/" target="_blank">
+<div align="left">
+  <p align="left">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  </p>
+</div>
+
+<div align="center">
+  <h2>🌍 Tech & Platforms I Work On</h2>
+</div>
+
+<div align="left">
+  <p align="left">
+    <a href="https://www.wikipedia.org/" target="_blank">
       <img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white" />
     </a>
     <a href="https://www.mediawiki.org/wiki/MediaWiki" target="_blank">
@@ -66,19 +83,9 @@
     <a href="https://www.gerritcodereview.com/" target="_blank">
       <img src="https://img.shields.io/badge/Gerrit-99CC33?style=for-the-badge&logo=gerrit&logoColor=white" />
     </a>
-</p>
+  </p>
+</div>
 
-## 🔗 Tech & Platforms I Work On
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white" />
-    <img src="https://img.shields.io/badge/MediaWiki-36C5F0?style=for-the-badge&logo=wikipedia&logoColor=white" />
-    <img src="https://img.shields.io/badge/WikiCommons-006699?style=for-the-badge&logo=wikipedia&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-    <img src="https://img.shields.io/badge/Gerrit-99CC33?style=for-the-badge&logo=gerrit&logoColor=white" />
-</p>
-
-  </details>
 
   <details open>
     <summary><h3>📫 Connect With Me</h3></summary>
@@ -119,9 +126,8 @@
   <h2>🐍 Contribution Graph</h2>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya0545&theme=tokyonight" />
   <br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aditya0545/aditya0545/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
-
 
 <div align="center">
   <h2>⚡ Fun Fact</h2>
