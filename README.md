@@ -77,10 +77,10 @@
   <a href="https://commons.wikimedia.org/" target="_blank" style="margin-right: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/48px-Commons-logo.svg.png" width="50" height="50" alt="Wikimedia Commons" />
   </a>
-  <a href="https://about.gitlab.com/" target="_blank" style="margin-right: 20px;">
+  <a href="https://about.gitlab.wikimedia.org/" target="_blank" style="margin-right: 20px;">
     <img src="https://skillicons.dev/icons?i=gitlab" width="50" height="50" alt="GitLab" />
   </a>
-  <a href="https://www.gerritcodereview.com/" target="_blank">
+  <a href="https://gerrit.wikimedia.org/r/q/owner:adityakumar2019.ak@gmail.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia_Gerrit_community_logo.svg/1024px-Wikimedia_Gerrit_community_logo.svg.png" width="50" height="50" alt="Gerrit" />
   </a>
 </div>
