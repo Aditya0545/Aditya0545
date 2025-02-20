@@ -21,7 +21,7 @@
   <details open>
     <summary><h3>👨‍💻 Current Work</h3></summary>
     <p align="left">
-      <a href="https://www.wikimedia.org/">
+      <a href="https://www.mediawiki.org/wiki/User:Adityakumar0545">
         <img src="https://img.shields.io/badge/Currently-Wikimedia_Projects-2C98F0?style=for-the-badge&logo=wikipedia&logoColor=white" />
       </a>
       <a href="https://adityakumar.store">
@@ -31,12 +31,7 @@
   </details>
 
   <details open>
-    <summary><h3>🌱 Learning & Projects</h3></summary>
-    <p align="left">
-      <img src="https://img.shields.io/badge/Learning-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/Learning-AI-00B2FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
-      <img src="https://img.shields.io/badge/Learning-Robotics-4C75E6?style=for-the-badge&logo=robot-framework&logoColor=white" />
-    </p>
+
 
   <div align="left">
   <h4>🤖 AI Projects</h4>
@@ -53,37 +48,41 @@
   <h2>🎨 Creative & Editing Tools</h2>
 </div>
 
-<div align="left">
-  <p align="left">
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  </p>
+<div align="left" style="margin: 20px 0;">
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" style="margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=ps" width="50" height="50" alt="Photoshop" />
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" style="margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=ai" width="50" height="50" alt="Illustrator" />
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" style="margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=pr" width="50" height="50" alt="Premiere Pro" />
+  </a>
+  <a href="https://www.blender.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=blender" width="50" height="50" alt="Blender" />
+  </a>
 </div>
 
 <div align="center">
   <h2>🌍 Tech & Platforms I Work On</h2>
 </div>
 
-<div align="left">
-  <p align="left">
-    <a href="https://www.wikipedia.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white" />
-    </a>
-    <a href="https://www.mediawiki.org/wiki/MediaWiki" target="_blank">
-      <img src="https://img.shields.io/badge/MediaWiki-36C5F0?style=for-the-badge&logo=wikipedia&logoColor=white" />
-    </a>
-    <a href="https://commons.wikimedia.org/" target="_blank">
-      <img src="https://img.shields.io/badge/WikiCommons-006699?style=for-the-badge&logo=wikipedia&logoColor=white" />
-    </a>
-    <a href="https://about.gitlab.com/" target="_blank">
-      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-    </a>
-    <a href="https://www.gerritcodereview.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Gerrit-99CC33?style=for-the-badge&logo=gerrit&logoColor=white" />
-    </a>
-  </p>
+<div align="left" style="margin: 20px 0;">
+  <a href="https://www.wikipedia.org/" target="_blank" style="margin-right: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/48px-Wikipedia-logo-v2.svg.png" width="50" height="50" alt="Wikipedia" />
+  </a>
+  <a href="https://www.mediawiki.org/wiki/MediaWiki" target="_blank" style="margin-right: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MediaWiki-2020-logo.svg/1200px-MediaWiki-2020-logo.svg.png" width="50" height="50" alt="MediaWiki" />
+  </a>
+  <a href="https://commons.wikimedia.org/" target="_blank" style="margin-right: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/48px-Commons-logo.svg.png" width="50" height="50" alt="Wikimedia Commons" />
+  </a>
+  <a href="https://about.gitlab.com/" target="_blank" style="margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=gitlab" width="50" height="50" alt="GitLab" />
+  </a>
+  <a href="https://www.gerritcodereview.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia_Gerrit_community_logo.svg/1024px-Wikimedia_Gerrit_community_logo.svg.png" width="50" height="50" alt="Gerrit" />
+  </a>
 </div>
 
 
@@ -124,15 +123,30 @@
 
 <div align="center">
   <h2>🐍 Contribution Graph</h2>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya0545&theme=tokyonight" />
-  <br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya0545&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&area_color=1b1f24&hide_border=true" />
+</p>
 
+<div align="center">
+  <h2>📝 Latest Blog Posts</h2>
+  <div align="left" style="margin: 20px 0;">
+    <a href="https://medium.com/@adityakumar2019.ak/my-first-devfest-a-volunteers-experience-at-devfest-2023-prayagraj-232035102743">
+      <img src="https://img.shields.io/badge/Blog-My First Devfest: A Volunteer’s Experience at Devfest 2023 Prayagraj-108ec6?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=2d8ecd" />
+    </a>
+    <br><br>
+    <a href="https://medium.com/@adityakumar2019.ak/my-journey-road-to-wiki-wikiclub-tech-india-2d1a19dab521">
+      <img src="https://img.shields.io/badge/Blog-Road to Wiki | WikiClub Tech India-1e40af?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=3b82f6" />
+    </a>
+    <br><br>
+    <a href="https://medium.com/@adityakumar2019.ak">
+      <img src="https://img.shields.io/badge/📚_Read_More-Visit_My_Blog-f97316?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=ea580c" />
+    </a>
+  </div>
+</div>
 <div align="center">
   <h2>⚡ Fun Fact</h2>
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
   <p><i>Java devs are secretly fluent in "Exception Handlingese" - a language of cryptic error messages they decipher with ease. 😜</i></p>
 </div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
