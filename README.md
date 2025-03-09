@@ -46,7 +46,7 @@
 
   ### Google Profile
 <div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
-  <a href="https://g.dev/hridyesh" style="text-decoration: none; color: inherit;">
+  <a href="https://g.dev/aditya0545" style="text-decoration: none; color: inherit;">
     <table style="border-collapse: separate; border-spacing: 15px 10px;">
       <tr>
         <td align="center">
