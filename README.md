@@ -6,8 +6,10 @@
   
   <h2>GDG Ambassador & GDG Core Team Member</h2>
   <h3>A passionate Java Developer and Graphic Designer from India 🇮🇳</h3>
+  <a href="https://g.dev/Aditya0545"><h3></h3>My Google Profile</h3></a>
+  </br>
 
-  <p>
+  <p></br>
     <img src="https://komarev.com/ghpvc/?username=aditya0545&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile-views" />
     <img src="https://img.shields.io/github/followers/Aditya0545?label=Followers&style=for-the-badge" alt="followers" />
   </p>
