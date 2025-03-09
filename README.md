@@ -1,7 +1,7 @@
 <!-- ![logo](https://github.com/Aditya0545/Aditya0545/blob/main/github-background.png) -->
 <div align="center">
-  <img width="100%" height="200" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="banner"/>
-  
+<!--   <img width="100%" height="200" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="banner"/>
+   -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=2C98F0&random=false&width=435&lines=Hi+There!+👋;I'm+Aditya+Kumar!" alt="Typing SVG" />
   
   <h2>GDG Ambassador & GDG Core Team Member</h2>
@@ -43,6 +43,65 @@
 
   </div>
   </details>
+
+  ### Google Profile
+<div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
+  <a href="https://g.dev/hridyesh" style="text-decoration: none; color: inherit;">
+    <table style="border-collapse: separate; border-spacing: 15px 10px;">
+      <tr>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2024/organizer/badge.svg" 
+               alt="DevFest'24 Organizer" 
+               style="width: 120px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">DevFest'24 Organizer</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/community/extended/speaker/badge.svg" 
+               alt="I/O Extended Speaker" 
+               style="width: 120px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">I/O Extended Speaker</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
+               alt="Google I/O Connect'24" 
+               style="width: 120px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/community/iwd/2024/badge.svg" 
+               alt="WTM Event Organizer" 
+               style="width: 120px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">WTM Event Organizer</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/community/solution-challenge/2024/registered/badge.svg" 
+               alt="Solution Challenge'24" 
+               style="width: 120px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Solution Challenge'24</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2023/attendee/badge.svg" 
+               alt="DevFest'23 Organizer" 
+               style="width: 120px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">DevFest'23 Organizer</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" 
+               alt="Google Cloud Innovator" 
+               style="width: 120px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google Cloud Innovator</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/playlists/gdsc/gdsc-leads/badge.svg" 
+               alt="GDSC Lead-UIT'23" 
+               style="width: 160px !important; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">GDSC Lead'23</div>
+        </td>
+      </tr>
+    </table>
+  </a>
+</div>
+
 
   <div align="center">
   <h2>🎨 Creative & Editing Tools</h2>
