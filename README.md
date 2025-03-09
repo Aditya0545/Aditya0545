@@ -51,15 +51,15 @@
       <tr>
         <td align="center">
           <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2024/organizer/badge.svg" 
-               alt="DevFest'24 Organizer" 
+               alt="DevFest'24 Core Team" 
                style="width: 120px; height: 120px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">DevFest'24 Organizer</div>
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">DevFest'24 Core Team</div>
         </td>
         <td align="center">
           <img src="https://developers.google.com/static/profile/badges/community/extended/speaker/badge.svg" 
-               alt="I/O Extended Speaker" 
+               alt="I/O Extended Coordinator" 
                style="width: 120px; height: 120px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">I/O Extended Speaker</div>
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">I/O Extended Coordinator</div>
         </td>
         <td align="center">
           <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
@@ -69,33 +69,27 @@
         </td>
         <td align="center">
           <img src="https://developers.google.com/static/profile/badges/events/community/iwd/2024/badge.svg" 
-               alt="WTM Event Organizer" 
+               alt="WTM Event Attendee" 
                style="width: 120px; height: 120px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">WTM Event Organizer</div>
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">WTM Event Attendee</div>
         </td>
         <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/events/community/solution-challenge/2024/registered/badge.svg" 
-               alt="Solution Challenge'24" 
+          <img src="https://developers.google.com/static/profile/badges/activity/idx/idx-user/badge.svg" 
+               alt="Project IDX User" 
                style="width: 120px; height: 120px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Solution Challenge'24</div>
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Project IDX User</div>
         </td>
         <td align="center">
           <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2023/attendee/badge.svg" 
-               alt="DevFest'23 Organizer" 
+               alt="DevFest'23 Core Team" 
                style="width: 120px; height: 120px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">DevFest'23 Organizer</div>
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">DevFest'23 Core Team</div>
         </td>
         <td align="center">
           <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" 
                alt="Google Cloud Innovator" 
                style="width: 120px; height: 120px; border-radius: 50%;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google Cloud Innovator</div>
-        </td>
-        <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/playlists/gdsc/gdsc-leads/badge.svg" 
-               alt="GDSC Lead-UIT'23" 
-               style="width: 160px !important; height: 120px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">GDSC Lead'23</div>
         </td>
       </tr>
     </table>
