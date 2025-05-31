@@ -214,22 +214,13 @@ const aditya = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya0545&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&area_color=1b1f24&hide_border=true" />
 </p>
 
-<div align="center">
-  <h2>📝 Latest Blog Posts</h2>
-  <div align="left" style="margin: 20px 0;">
-    <a href="https://medium.com/@adityakumar2019.ak/my-first-devfest-a-volunteers-experience-at-devfest-2023-prayagraj-232035102743">
-      <img src="https://img.shields.io/badge/Blog-My First Devfest: A Volunteer's Experience at Devfest 2023 Prayagraj-108ec6?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=2d8ecd" />
-    </a>
-    <br><br>
-    <a href="https://medium.com/@adityakumar2019.ak/my-journey-road-to-wiki-wikiclub-tech-india-2d1a19dab521">
-      <img src="https://img.shields.io/badge/Blog-Road to Wiki | WikiClub Tech India-1e40af?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=3b82f6" />
-    </a>
-    <br><br>
-    <a href="https://medium.com/@adityakumar2019.ak">
-      <img src="https://img.shields.io/badge/📚_Read_More-Visit_My_Blog-f97316?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=ea580c" />
-    </a>
-  </div>
-</div>
+
+<h2>📝 Latest Blog Posts</h2>
+  <ul>
+  <li><a href=https://medium.com/@adityakumar2019.ak/my-first-devfest-a-volunteers-experience-at-devfest-2023-prayagraj-232035102743 target="_blank" rel="noreferrer nofollow">My First Devfest: A Volunteer’s Experience at Devfest 2023 Prayagrajr</a></li>
+  <li><a href=https://medium.com/@adityakumar2019.ak/my-journey-road-to-wiki-wikiclub-tech-india-2d1a19dab521 target="_blank" rel="noreferrer nofollow">My Journey: Road to Wiki | WikiClub Tech India</a></li>
+  </ul>
+<p><a href="https://medium.com/@adityakumar2019.ak">➡️ More blog posts</a></p>
 
 <div align="center">
   <h2>⭐ Starred Projects</h2>
