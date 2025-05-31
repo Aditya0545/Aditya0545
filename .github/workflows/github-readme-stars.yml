@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update README with starred repos
-        uses: abhisheknaiidu/github-readme-stars@main
+        uses: aditya0545/github-readme-stars@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # Optional: customize the number of repos, sort, etc.
