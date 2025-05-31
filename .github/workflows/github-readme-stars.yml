@@ -1,0 +1,22 @@
+name: Update Starred Projects in README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update README with starred repos
+        uses: abhisheknaiidu/github-readme-stars@main
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: customize the number of repos, sort, etc.
+          # count: 6
+          # sort: "created"
+          # filter: "all" 

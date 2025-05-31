@@ -1,23 +1,45 @@
-<!-- ![logo](https://github.com/Aditya0545/Aditya0545/blob/main/github-background.png) -->
 <div align="center">
-<!--   <img width="100%" height="200" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="banner"/>
-   -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=2C98F0&random=false&width=435&lines=Hi+There!+👋;I'm+Aditya+Kumar!" alt="Typing SVG" />
-  
-  <h2>GDG Ambassador & GDG Core Team Member</h2>
-  <h3>A passionate Java Developer and Graphic Designer from India 🇮🇳</h3>
-  <a href="https://g.dev/Aditya0545"><h3></h3>My Google Profile</h3></a>
-  </br>
 
-  <p></br>
-    <img src="https://komarev.com/ghpvc/?username=aditya0545&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile-views" />
-    <img src="https://img.shields.io/github/followers/Aditya0545?label=Followers&style=for-the-badge" alt="followers" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=2C98F0&random=false&width=435&lines=Hi+There!+👋;I'm+Aditya+Kumar!" alt="Typing SVG" />
+  <h2>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+     Open Source Contributor | GDG Ambassador & Core Team Member | Java Developer | Graphic Designer
+    <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+  </h2>
+  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+  <p><em>
+    
+  </em></p>
+  <p align="left">
+    <a href="https://twitter.com/your_twitter"><img src="https://img.shields.io/twitter/follow/your_twitter?label=Follow&style=social" /></a>
+    <a href="https://www.linkedin.com/in/aditya0545/"><img src="https://img.shields.io/badge/-Aditya%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+    <a href="https://adityakumar.store"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" /></a>
+    <a href="mailto:adityakumar2019.ak@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <img src="https://img.shields.io/github/followers/Aditya0545?label=Follow&style=social" />
+    <img src="https://komarev.com/ghpvc/?username=aditya0545&label=Profile%20views&color=0e75b6&style=flat-square" />
   </p>
 </div>
 
 <div align="center">
-  <h2>🚀 About Me</h2>
+<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...</h2>
 </div>
+
+```javascript
+const aditya = {
+  pronouns: "He" | "him",
+  code: [Javascript, Typescript, HTML, CSS, C, Python, Java],
+  tools: [React, Next js, Node, S, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        founder: "DCS&IT Tech Club",
+                        speaker: "Aditya",
+                        mentor: "anyone who is ready to share knowledge"
+                      },
+ challenge: "I am Building OCR tools for WIkiSource"
+}
+```
+
+
 
 <div align="left">
   <details open>
@@ -32,74 +54,109 @@
     </p>
   </details>
 
-  <details open>
 
+<details open>
+  <summary><h2>🚀 Awesome AI Projects Showcase</h2></summary>
 
-  <div align="left">
-  <h4>🤖 AI Projects</h4>
+<br/>
 
-  | Project | Description |
-  |---------|------------|
-  | [![Face Mask Detection](https://img.shields.io/badge/AI_Project-Face_Mask_Detection-00B2FF?style=for-the-badge&logo=streamlit&logoColor=white)](https://face-mask-detection-aditya.streamlit.app) | Face Mask Detection using Deep Learning |
-  | [![SMS Spam Classifier](https://img.shields.io/badge/AI_Project-SMS_Spam_Classifier-00B2FF?style=for-the-badge&logo=streamlit&logoColor=white)](https://ham-spam-classifier-aditya.streamlit.app) | SMS Classification using NLP |
+<table>
+  <thead>
+    <tr>
+      <th align="left">🧠 Project</th>
+      <th align="left">📋 Description</th>
+      <th align="left">🌐 Live Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>🧑‍⚕️ Face Mask Detection</strong><br/>
+        <img src="https://img.shields.io/badge/Streamlit-App-00B2FF?style=flat-square&logo=streamlit&logoColor=white"/>
+      </td>
+      <td>
+        Detects whether a person is wearing a face mask using a Deep Learning model powered by <code>CNN</code> and <code>OpenCV</code>.
+      </td>
+      <td>
+        <a href="https://face-mask-detection-aditya.streamlit.app" target="_blank">🌟 Launch App</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>📩 SMS Spam Classifier</strong><br/>
+        <img src="https://img.shields.io/badge/Streamlit-App-00B2FF?style=flat-square&logo=streamlit&logoColor=white"/>
+      </td>
+      <td>
+        Analyzes text messages using <code>NLP</code> to detect if a message is 📬 spam or ✅ ham.
+      </td>
+      <td>
+        <a href="https://ham-spam-classifier-aditya.streamlit.app" target="_blank">🌟 Try it Out</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-  </div>
-  </details>
+---
+
+🔧 <strong>Tech Stack</strong>:  
+<code>Python</code> • <code>Streamlit</code> • <code>TensorFlow</code> • <code>Scikit-learn</code> • <code>OpenCV</code> • <code>NLP</code>
+
+</details>
 
   ### Google Profile
-<div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
-  <a href="https://g.dev/aditya0545" style="text-decoration: none; color: inherit;">
-    <table style="border-collapse: separate; border-spacing: 15px 10px;">
-      <tr>
-        <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2024/organizer/badge.svg" 
-               alt="DevFest'24 Core Team" 
-               style="width: 120px; height: 120px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">DevFest'24 Core Team</div>
-        </td>
-        <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/community/extended/speaker/badge.svg" 
-               alt="I/O Extended Coordinator" 
-               style="width: 120px; height: 120px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">I/O Extended Coordinator</div>
-        </td>
-        <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
-               alt="Google I/O Connect'24" 
-               style="width: 120px; height: 120px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
-        </td>
-        <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/events/community/iwd/2024/badge.svg" 
-               alt="WTM Event Attendee" 
-               style="width: 120px; height: 120px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">WTM Event Attendee</div>
-        </td>
-        <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/activity/idx/idx-user/badge.svg" 
-               alt="Project IDX User" 
-               style="width: 120px; height: 120px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Project IDX User</div>
-        </td>
-        <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2023/attendee/badge.svg" 
-               alt="DevFest'23 Core Team" 
-               style="width: 120px; height: 120px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">DevFest'23 Core Team</div>
-        </td>
-        <td align="center">
-          <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" 
-               alt="Google Cloud Innovator" 
-               style="width: 120px; height: 120px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google Cloud Innovator</div>
-        </td>
-      </tr>
-    </table>
-  </a>
+  <div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
+    <a href="https://g.dev/aditya0545" style="text-decoration: none; color: inherit;">
+      <table style="border-collapse: separate; border-spacing: 15px 10px;">
+        <tr>
+          <td align="center">
+            <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2024/organizer/badge.svg" 
+                 alt="DevFest'24 Core Team" 
+                 style="width: 120px; height: 120px; border-radius: 50%;">
+            <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">DevFest'24 Core Team</div>
+          </td>
+          <td align="center">
+            <img src="https://developers.google.com/static/profile/badges/community/extended/speaker/badge.svg" 
+                 alt="I/O Extended Coordinator" 
+                 style="width: 120px; height: 120px; border-radius: 50%;">
+            <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">I/O Extended Coordinator</div>
+          </td>
+          <td align="center">
+            <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
+                 alt="Google I/O Connect'24" 
+                 style="width: 120px; height: 120px; border-radius: 50%;">
+            <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
+          </td>
+          <td align="center">
+            <img src="https://developers.google.com/static/profile/badges/events/community/iwd/2024/badge.svg" 
+                 alt="WTM Event Attendee" 
+                 style="width: 120px; height: 120px; border-radius: 50%;">
+            <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">WTM Event Attendee</div>
+          </td>
+          <td align="center">
+            <img src="https://developers.google.com/static/profile/badges/activity/idx/idx-user/badge.svg" 
+                 alt="Project IDX User" 
+                 style="width: 120px; height: 120px; border-radius: 50%;">
+            <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Project IDX User</div>
+          </td>
+          <td align="center">
+            <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2023/attendee/badge.svg" 
+                 alt="DevFest'23 Core Team" 
+                 style="width: 120px; height: 120px; border-radius: 50%;">
+            <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">DevFest'23 Core Team</div>
+          </td>
+          <td align="center">
+            <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" 
+                 alt="Google Cloud Innovator" 
+                 style="width: 120px; height: 120px; border-radius: 50%;">
+            <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google Cloud Innovator</div>
+          </td>
+        </tr>
+      </table>
+    </a>
+  </div>
 </div>
 
-
-  <div align="center">
+<div align="center">
   <h2>🎨 Creative & Editing Tools</h2>
 </div>
 
@@ -140,41 +197,12 @@
   </a>
 </div>
 
-
-  <details open>
-    <summary><h3>📫 Connect With Me</h3></summary>
-    <p align="left">
-      <a href="mailto:adityakumar2019.ak@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-      <a href="https://www.instagram.com/its_aditya_simple">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-      </a>
-      <a href="https://www.linkedin.com/in/aditya0545/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </p>
-  </details>
-
-  <details open>
-    <summary><h3>💡 Expertise</h3></summary>
-    <p align="left">
-      <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-Expert-007396?style=for-the-badge&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloud-Expert-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/C_Language-Expert-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-    </p>
-  </details>
-</div>
-
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=aditya0545&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya0545&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya0545&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <h2>🏆 GitHub Trophies</h2>
 </div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aditya0545&theme=tokyonight&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies" />
+</p>
 
 <div align="center">
   <h2>🐍 Contribution Graph</h2>
@@ -187,7 +215,7 @@
   <h2>📝 Latest Blog Posts</h2>
   <div align="left" style="margin: 20px 0;">
     <a href="https://medium.com/@adityakumar2019.ak/my-first-devfest-a-volunteers-experience-at-devfest-2023-prayagraj-232035102743">
-      <img src="https://img.shields.io/badge/Blog-My First Devfest: A Volunteer’s Experience at Devfest 2023 Prayagraj-108ec6?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=2d8ecd" />
+      <img src="https://img.shields.io/badge/Blog-My First Devfest: A Volunteer's Experience at Devfest 2023 Prayagraj-108ec6?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=2d8ecd" />
     </a>
     <br><br>
     <a href="https://medium.com/@adityakumar2019.ak/my-journey-road-to-wiki-wikiclub-tech-india-2d1a19dab521">
@@ -199,6 +227,16 @@
     </a>
   </div>
 </div>
+
+<div align="center">
+  <h2>⭐ Starred Projects</h2>
+  <p>Here are some repositories I've starred recently (auto-updated):</p>
+</div>
+
+<!--START_SECTION:stars-->
+<!-- The list will be automatically updated here by github-readme-stars action -->
+<!--END_SECTION:stars-->
+
 <div align="center">
   <h2>⚡ Fun Fact</h2>
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
