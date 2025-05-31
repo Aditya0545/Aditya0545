@@ -200,6 +200,22 @@ const aditya = {
   </a>
 </div>
 
+---
+
+## 📊 GitHub Summary
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya0545&theme=default" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya0545&theme=default" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditya0545&theme=default&utcOffset=8" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya0545&theme=default" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditya0545&theme=default" alt="Most Used Languages" />
+</p>
+
+> 📝 _Note: These cards are auto-updated based on your GitHub activity._
+
+---
+
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
 </div>
@@ -213,7 +229,6 @@ const aditya = {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya0545&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&area_color=1b1f24&hide_border=true" />
 </p>
-
 
 <h2>📝 Latest Blog Posts</h2>
   <ul>
