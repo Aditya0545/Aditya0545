@@ -1,0 +1,35 @@
+name: Update README with Project Progress
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # runs every hour
+  workflow_dispatch:     # allows manual run from Actions -> Run workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run update script
+        run: python update_readme.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          PROJECT_ID: ${{ secrets.PROJECT_ID }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update project progress [skip ci]" || echo "No changes to commit"
+          git push
