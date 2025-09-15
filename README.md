@@ -112,7 +112,7 @@ Welcome to my project! 🚀
 
 ## 📊 Progress
 <!-- PROJECT_PROGRESS_START -->
-✅ 0 / 0 tasks completed (0%)
+✅ 0 / 2 tasks completed (0%)
 [░░░░░░░░░░] 0%
 <!-- PROJECT_PROGRESS_END -->
 
