@@ -8,28 +8,46 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
+      # Step 1: Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Step 2: Setup Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
+      # Step 3: Install dependencies
       - name: Install dependencies
         run: pip install requests
 
+      # Step 4: Run your update script
       - name: Run update script
-        run: python update_readme.py
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           PROJECT_ID: ${{ secrets.PROJECT_ID }}
+        run: python update_readme.py
 
+      # Step 5: Commit and push changes safely
       - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          # Configure bot identity
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Make sure local branch is up to date
+          git fetch origin main
+          git checkout main
+          git pull --rebase origin main
+
+          # Add and commit README changes
           git add README.md
           git commit -m "Update project progress [skip ci]" || echo "No changes to commit"
-          git push
+
+          # Push changes using the bot's token
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
