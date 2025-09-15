@@ -106,6 +106,18 @@ const aditya = {
 
 </details>
 
+# 📌 My Project
+
+Welcome to my project! 🚀
+
+## 📊 Progress
+<!-- PROJECT_PROGRESS_START -->
+✅ 0 / 0 tasks completed (0%)
+[░░░░░░░░░░] 0%
+<!-- PROJECT_PROGRESS_END -->
+
+Stay tuned for updates! ✨
+
   ### Google Profile
   <div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
     <a href="https://g.dev/aditya0545" style="text-decoration: none; color: inherit;">
