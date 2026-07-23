@@ -122,6 +122,11 @@ No activity tracked
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/Aditya0545/Aditya0545/pull/5) in [Aditya0545/Aditya0545](https://github.com/Aditya0545/Aditya0545)
+2. 💪 Opened PR [#5](https://github.com/Aditya0545/Aditya0545/pull/5) in [Aditya0545/Aditya0545](https://github.com/Aditya0545/Aditya0545)
+3. 🎉 Merged PR [#4](https://github.com/Aditya0545/Aditya0545/pull/4) in [Aditya0545/Aditya0545](https://github.com/Aditya0545/Aditya0545)
+4. 💪 Opened PR [#4](https://github.com/Aditya0545/Aditya0545/pull/4) in [Aditya0545/Aditya0545](https://github.com/Aditya0545/Aditya0545)
+5. 🎉 Merged PR [#3](https://github.com/Aditya0545/Aditya0545/pull/3) in [Aditya0545/Aditya0545](https://github.com/Aditya0545/Aditya0545)
 <!--END_SECTION:activity-->
 
 ## Latest Blog Posts
