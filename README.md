@@ -111,6 +111,11 @@ Badges from my [Google Developer Profile](https://g.dev/aditya0545):
 ## Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## Recent Activity
