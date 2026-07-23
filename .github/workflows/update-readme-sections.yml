@@ -1,0 +1,45 @@
+name: Update README Sections
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Pull latest Medium posts into README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@adityakumar2019.ak"
+          max_post_count: 5
+          commit_message: "docs: update latest blog posts [skip ci]"
+
+  update-activity:
+    # Runs AFTER blog job to avoid concurrent commits to README.md
+    needs: update-blog-posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update recent activity section
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "docs: update recent activity [skip ci]"
+          MAX_LINES: 5
+        # Don't fail the whole run when there is little/no new activity
+        continue-on-error: true

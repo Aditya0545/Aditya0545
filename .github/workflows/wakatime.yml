@@ -15,11 +15,18 @@ permissions:
 jobs:
   update-waka-stats:
     runs-on: ubuntu-latest
+    env:
+      HAS_WAKA_KEY: ${{ secrets.WAKATIME_API_KEY != '' }}
     steps:
       - name: Update coding stats section
+        if: env.HAS_WAKA_KEY == 'true'
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: false
           BLOCKS: "░▒▓█"
           TIME_RANGE: last_7_days
+
+      - name: Warn when secret is missing
+        if: env.HAS_WAKA_KEY != 'true'
+        run: echo "::warning::WAKATIME_API_KEY secret is not set - skipping. Add it in repo Settings > Secrets and variables > Actions."
