@@ -96,12 +96,13 @@ Badges from my [Google Developer Profile](https://g.dev/aditya0545):
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aditya0545&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=2C98F0&icon_color=FF6D00&ring_color=2C98F0" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya0545&theme=transparent" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com/?user=aditya0545&theme=transparent&hide_border=true&ring=2C98F0&fire=FF6D00&currStreakLabel=2C98F0&sideLabels=0A66C2" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya0545&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=2C98F0" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya0545&theme=transparent" alt="Top languages by repo" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditya0545&theme=transparent" alt="Top languages by commit" />
 </p>
 
 <p align="center">
