@@ -1,0 +1,22 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    # Once a day at 02:00 UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-waka-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update coding stats section
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: false
+          BLOCKS: "░▒▓█"
+          TIME_RANGE: last_7_days
